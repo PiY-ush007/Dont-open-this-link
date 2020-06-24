@@ -1,0 +1,25 @@
+body{
+    background-color: maroon;
+    border:10px solid black;
+}
+.heading{
+    margin-top: 2em;
+    display:flex;
+    justify-content: space-evenly;
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: 300px;
+    margin-right:300px;
+    font-size: larger;
+    margin-bottom: 50px;
+    
+    background-color: bisque;
+}
+.collab{
+    display:flex;
+    justify-content: space-around;
+}
+.prehead{
+    color:white;
+    display:flex;
+    justify-content: space-evenly;
+}
